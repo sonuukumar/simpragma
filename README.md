@@ -1,0 +1,2 @@
+# simpragma
+assignment
